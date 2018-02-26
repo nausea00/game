@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 个人网页
 
 You can use the [editor on GitHub](https://github.com/nausea00/game/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
